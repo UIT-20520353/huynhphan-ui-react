@@ -6,4 +6,5 @@ export type TProduct = {
   price: number;
   image: string;
   category: TCategory;
+  id: number;
 };
